@@ -1,9 +1,7 @@
 # Mathematics for Machine Learning - Solutions to Exercises
-My personal handwritten solutions to exercises in the book "Mathematics for Machine Learning" by  Deisenroth, Faisal, and Ong. 
+My handwritten solutions to exercises in the book "Mathematics for Machine Learning" by  Deisenroth, Faisal, and Ong. 
 
 A link to the book (it is freely available): https://mml-book.com
-
-My solutions will inevitably contain some mistakes. I apologise for this, and I can only hope they are only minor and do not cause too much confusion.
 
 ## Contents of repository 
 
