@@ -1,7 +1,6 @@
 # Mathematics for Machine Learning - Solutions to Exercises
-My handwritten solutions to exercises in the book "Mathematics for Machine Learning" by  Deisenroth, Faisal, and Ong. 
 
-A link to the book (it is freely available): https://mml-book.com
+My handwritten solutions to exercises from the book "[Mathematics for Machine Learning](https://mml-book.com)" by  Deisenroth, Faisal, and Ong. 
 
 ## Contents of repository 
 
@@ -17,4 +16,4 @@ There is also helper code for Chapter 6, specifically Exercise 6.2, where the me
 
 --
 
-The repository will (eventually) likely contain supplementary code for Part II (Central Machine Learning Problems). However, as there are no explicit exercises in this part, the code will be scattered.
+The repository also contains notebooks relating to Part II (Central Machine Learning Problems). This mostly involves explicit experiments with concepts. As there are no formal exercises in this part of the book, the content of the notebooks is somewhat scattered.
